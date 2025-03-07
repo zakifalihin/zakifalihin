@@ -35,3 +35,19 @@
   ![](https://github-profile-trophy.vercel.app/?username=zakifalihin&theme=radical&no-frame=false&no-bg=true&margin-w=3)
 
   ---
+
+  ## 📊 My GitHub Stats  
+
+<div align="center">
+  
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakifalihin&layout=compact&theme=tokyonight&langs_count=6&hide=javascript,shell" />
+  </a>
+
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=zakifalihin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+
+</div>
+
+  ---

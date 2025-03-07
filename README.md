@@ -36,18 +36,18 @@
 
   ---  
 
-<div align="center">
-  
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakifalihin&layout=compact&theme=tokyonight&langs_count=6&hide=javascript,shell" />
-  </a>
+  <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
 
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=zakifalihin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakifalihin&layout=compact&langs_count=10&theme=dark" width="35%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=zakifalihin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="50%"/>
 
 </div>
 
+
+
   ---
+
+
 
 

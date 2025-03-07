@@ -26,15 +26,15 @@
 
   ---
 
-  ![](https://github-profile-trophy.vercel.app/?username=zakifalihin&theme=radical&no-frame=false&no-bg=true&margin-w=3)
-
-  ---  
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,css,html,javascript" />
   </a>
 
   ---
+
+  ![](https://github-profile-trophy.vercel.app/?username=zakifalihin&theme=radical&no-frame=false&no-bg=true&margin-w=3)
+
+  ---  
 
 <div align="center">
   
@@ -49,3 +49,5 @@
 </div>
 
   ---
+
+

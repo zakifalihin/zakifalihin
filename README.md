@@ -9,8 +9,6 @@
   🔹 <b>Crafting the future with <span style="color:#58A6FF;">code & creativity</span></b> <br>
   🔹 <b>Turning <span style="color:#58A6FF;">ideas into reality</span> through technology</b>
 </p>
-  
-
 
   <p>
     <a href="https://instagram.com/zakifalihin">

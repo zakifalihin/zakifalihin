@@ -23,7 +23,6 @@
   </p>
 
   ---
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,css,html,javascript" />
   </a>

@@ -33,7 +33,6 @@
 
   ---  
   
-
   <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakifalihin&layout=compact&langs_count=10&theme=dark" width="35%"/>
@@ -43,7 +42,3 @@
 </div>
 
   ---
-
-
-
-

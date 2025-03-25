@@ -3,6 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+There+%F0%9F%91%8B;I'm+Zaki!;Welcome+To+My+Profile)](https://git.io/typing-svg)
 
 --
+
 <h3 align="center">✨ Innovator | Software Engineer ✨</h3>
 <p align="center">
   🔹 <b>Crafting the future with <span style="color:#58A6FF;">code & creativity</span></b> <br>

@@ -22,18 +22,23 @@
       <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
     </a>
   </p>
+
   
   ---
+
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,html,javascript,php,mysql" />
   </a>
+
   
   ---
+  
   
   ![](https://github-profile-trophy.vercel.app/?username=zakifalihin&theme=radical&no-frame=false&no-bg=true&margin-w=3)
   
   ---  
+  
   
   <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
 
@@ -44,3 +49,4 @@
 </div>
 
   ---
+

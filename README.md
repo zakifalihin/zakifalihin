@@ -8,6 +8,7 @@
   🔹 <b>Turning <span style="color:#58A6FF;">ideas into reality</span> through technology</b>
 </p>
 
+
   <p>
     <a href="https://instagram.com/zakifalihin">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
@@ -22,6 +23,7 @@
       <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
     </a>
   </p>
+  
 
   ---
 
@@ -29,11 +31,14 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,py,html,javascript,php,mysql" />
   </a>
 
+
   ---
+  
   
   ![](https://github-profile-trophy.vercel.app/?username=zakifalihin&theme=radical&no-frame=false&no-bg=true&margin-w=3)
   
   ---  
+
   
   <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
 
@@ -42,5 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zakifalihin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="50%"/>
 
 </div>
+
 
   ---

@@ -8,7 +8,6 @@
   🔹 <b>Turning <span style="color:#58A6FF;">ideas into reality</span> through technology</b>
 </p>
 
-
   <p>
     <a href="https://instagram.com/zakifalihin">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />

@@ -28,7 +28,7 @@
   
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,html,javascript,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,javascript,php,mysql" />
   </a>
 
   ---  
@@ -37,7 +37,6 @@
   
   ---  
 
-
   <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakifalihin&layout=compact&langs_count=10&theme=dark" width="35%"/>
@@ -45,6 +44,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zakifalihin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="50%"/>
 
 </div>
-
 
   ---

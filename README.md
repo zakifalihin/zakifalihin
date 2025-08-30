@@ -26,14 +26,13 @@
   ---
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,javascript,php,mysql,spring" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,javascript,php,mysql,spring,flutter,laravel" />
   </a>
 
   ---  
   
   ![](https://github-profile-trophy.vercel.app/?username=zakifalihin&theme=radical&no-frame=false&no-bg=true&margin-w=3)
   
-  ---  
 
   <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
 

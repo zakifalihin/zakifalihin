@@ -26,7 +26,7 @@
   ---
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,javascript,php,mysql,dart,flutter,laravel" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,javascript,php,dart" />
   </a>
 
   ---  

@@ -29,6 +29,13 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,javascript,php,dart,py" />
   </a>
 
+  ---
+  
+  ### ⚡ Frameworks
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,spring,flutter" />
+  </a>
+
   ---  
   
   ![](https://github-profile-trophy.vercel.app/?username=zakifalihin&theme=radical&no-frame=false&no-bg=true&margin-w=3)
